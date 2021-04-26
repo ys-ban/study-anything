@@ -1,0 +1,1 @@
+{"data_dir": "/opt/ml/code/input", "output_dir": "/opt/ml/code", "model_params_dir": "/opt/ml/code/src/model_params.json", "period_rule": [["d", 7, 0], ["d", 14, 7], ["d", 30, 14], ["m", 2, 1], ["m", 3, 2], ["m", 6, 3], ["m", 6, 0], ["m", 9, 6], ["m", 12, 9], ["m", 15, 12], ["m", 22, 0]]}
